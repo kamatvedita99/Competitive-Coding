@@ -4,4 +4,4 @@ This Repository contains all the codes I worked on in hackathons,coding challeng
 Any suggestions to improve the code are always welcome.
 
 challenge 1: 
-Codathon_0: Organised by Girlscript Vishakhapatnam on 28 June 2020 ( 6:00 pm to 8:30pm) ( 5 questions )
+Codaholic_0: Organised by Girlscript Vishakhapatnam on 28 June 2020 ( 6:00 pm to 8:30pm) ( 5 questions )
