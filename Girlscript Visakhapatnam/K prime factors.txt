@@ -1,0 +1,42 @@
+Yummy is preparing a topic called prime factors. The preparation is getting too boring for her liking. To make it interesting, she herself assaigned a task.
+
+Task is to Count K-Primes. A number is a k-prime if it has exactly k distinct prime factors. The Task is quite simple. She will select three numbers A, B & K randomly. She needs to find number of K-prime numbers between A & B (both inclusive). She play this game T times.
+
+Help Yummy to find the count
+
+Input Format
+
+First line of input contains a single integer T denoting number of test cases, i.e the number of times she play. Each test case is described in a single line containing the three numbers A,B & K.
+
+Constraints
+
+1<=T<=10000
+
+2<=A<=B<=100000
+
+1<=K<=5
+
+Output Format
+
+For each test case , print the number of k-primes between A & B in a new line.
+
+Sample Input 0
+
+4
+2 5 1
+4 10 2
+14 15 2
+2 20 3
+Sample Output 0
+
+4
+2
+2
+0
+Explanation 0
+
+In first test case 2-number of prime factors(n) is 1 i.e 2 and n is equal K
+3-number of prime factors(n) is 1 i.e 3 and n is equal K
+4-number of prime factors(n) is 1 i.e 2 and n is equal K
+5-number of prime factors(n) is 1 i.e 5 and n is equal K
+There are 4 numbers which satisfies the condition so is the answer

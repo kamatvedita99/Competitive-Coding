@@ -1,0 +1,37 @@
+As the situation between the countries Indiana and Chinai is warming up Indiana decided to take on a secret mission.
+
+So as part of the mission Indiana soldiers went to the borders to prevent any further attacks. The commander ordered all the soldiers to use keypad phones instead of smart phone as they are prone to be hacked by Chinaiese
+
+They also encoded the messages so that even if they are hacked chinaiese cant understand it.
+
+You are working in the decoding unit of the Indiana militiary and they asked your help in decrypting the message. Now help them in decrypting the messages.
+
+See Sample input and output to crack the encryption logic.
+
+Input Format
+
+First line of input contains T dentoing no of test cases
+
+Each every ith testcase you will be given a string S which is encrypted and you have to decrypt it.
+
+Constraints
+
+1<=T<=100
+
+1<=|S|<=106
+
+Output Format
+
+Print the decrypted message in a single line .
+
+Sample Input 0
+
+3
+6-444-7777-7777-444-666-66
+7777-8-2-777-8-33-3
+555-33-8-7777-4-666
+Sample Output 0
+
+mission
+started
+letsgo
